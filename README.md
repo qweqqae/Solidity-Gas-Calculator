@@ -9,7 +9,11 @@ This project allows you to calculate the gas cost for Ethereum transactions and 
 - Calculates gas cost in ETH, USD, and KZT.
 
 ## How to run?
-
+ Install dependencies:
+```bash
+npm install
+```
+     
 - For the English script, use the command:
 
   ```bash
@@ -29,6 +33,11 @@ This project allows you to calculate the gas cost for Ethereum transactions and 
 - Подсчет стоимости газа в ETH, USD и KZT.
 
 ## Как запустить?
+- Установите зависимости:
+  
+  ```bash
+  npm install
+
 - Для Английского скрипта используйте команду:
 
   ```bash
